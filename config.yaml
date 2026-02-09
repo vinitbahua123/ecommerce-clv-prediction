@@ -1,0 +1,5 @@
+# Project Configuration
+project_name: "ecommerce-clv-prediction"
+data_path: "data/raw/Online_Retail.xlsx"
+db_name: "ecommerce_clv"
+random_state: 42
