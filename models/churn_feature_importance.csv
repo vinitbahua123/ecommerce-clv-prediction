@@ -1,0 +1,13 @@
+Feature,Importance
+Recency,616
+Monetary,142
+Frequency,32
+RF_Product,28
+Monetary_Frequency_Ratio,27
+Recency_Frequency_Ratio,25
+FM_Product,20
+RM_Product,16
+F_Score,1
+R_Score,0
+M_Score,0
+Avg_Order_Value,0

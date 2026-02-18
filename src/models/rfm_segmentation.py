@@ -2,7 +2,7 @@
 Customer Segmentation Module - K-Means Clustering
 Professional implementation with business-focused tier naming
 
-Author: CLV Analytics Team  
+
 Date: February 2026
 """
 
