@@ -2,7 +2,6 @@
 Combine All Predictions into Master File
 Merges segmentation, CLV, and churn predictions
 
-Author: CLV Analytics Team
 Date: February 2026
 """
 
