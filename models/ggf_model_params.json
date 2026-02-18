@@ -1,0 +1,10 @@
+{
+  "model_type": "GammaGammaFitter",
+  "parameters": {
+    "p": 2.1108445978392814,
+    "q": 3.437338703111046,
+    "v": 479.61905354985265
+  },
+  "penalizer_coef": 0.0,
+  "trained_date": "2026-02-18T13:07:49.038049"
+}

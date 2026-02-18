@@ -1,0 +1,5 @@
+Segment,Customer_Count,Avg_Recency_Days,Median_Recency_Days,Avg_Frequency,Median_Frequency,Avg_Monetary_Value,Median_Monetary_Value,Total_Revenue,Customer_Percentage,Revenue_Percentage
+Silver Tier,3048,43.92,33.0,3.65,3.0,1333.13,818.58,4063389.1,70.3,45.7
+Gold Tier,213,15.67,6.0,21.29,18.0,12813.94,7834.65,2729369.56,4.9,30.7
+Platinum Tier,14,7.0,2.0,87.21,79.5,113260.51,99030.46,1585647.15,0.3,17.8
+Inactive,1063,248.47,243.0,1.55,1.0,478.65,310.05,508803.08,24.5,5.7
