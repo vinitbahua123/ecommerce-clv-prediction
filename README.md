@@ -265,21 +265,8 @@ Full dependencies listed in `requirements.txt`
 
 ---
 
-## Team
-
-**Project Lead:** Shrividya Shashidhara  
-**Data Analyst:** Praniti Kale  
-**ML Engineer:** Vinit Bahua  
-**Data Engineer:** Diego Lacruz
-
-**Institution:** Northeastern University  
-**Program:** Data Science Graduate Program
-
----
-
 ## Documentation
 
-- **Data Dictionary:** `docs/DATA_DICTIONARY_TEAM_REFERENCE.md`
 - **Project Roadmap:** `docs/PROJECT_ROADMAP_SIMPLE.md`
 - **Requirements Flow:** `docs/REQUIREMENTS_FLOW_DOCUMENT.md`
 
@@ -313,16 +300,15 @@ MIT License - See LICENSE file for details
 
 ## Contact
 
-**Repository:** github.com/yourusername/ecommerce-clv-prediction  
+**Repository:** github.com/vinitbahua123/ecommerce-clv-prediction  
 **Issues:** Use GitHub Issues for bug reports or feature requests
 
 ---
 
 ## Acknowledgments
 
-Dataset provided by UCI Machine Learning Repository. This project was developed as part of the Data Science curriculum at Northeastern University.
-
+Dataset provided by UCI Machine Learning Repository. 
 ---
 
 **Last Updated:** February 2026  
-**Status:** Production Ready
+
