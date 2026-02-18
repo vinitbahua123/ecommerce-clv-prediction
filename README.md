@@ -303,11 +303,7 @@ MIT License - See LICENSE file for details
 **Repository:** github.com/vinitbahua123/ecommerce-clv-prediction  
 **Issues:** Use GitHub Issues for bug reports or feature requests
 
----
 
-## Acknowledgments
-
-Dataset provided by UCI Machine Learning Repository. 
 ---
 
 **Last Updated:** February 2026  
