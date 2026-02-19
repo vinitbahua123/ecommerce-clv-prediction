@@ -2,7 +2,7 @@
 Feature Engineering Module - RFM Metric Calculation
 Professional implementation with validation and audit trail
 
-Author: CLV Analytics Team
+
 Date: February 2026
 
 Purpose:
